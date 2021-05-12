@@ -6,6 +6,15 @@ Before running the application the user must perform an "npm install" to install
 Before the app is launched the user is asked a series of questions about the team member. The user is given the option to continue adding members by simply selecting "yes or"no. 
 when the user is done an HTML file is created displaying all of the information. 
 
+![html screenshot](https://user-images.githubusercontent.com/44445250/117910926-d9037900-b2aa-11eb-988f-bdd69ac6f2c7.JPG)
+
+
+![questions_asked](https://user-images.githubusercontent.com/44445250/117910930-db65d300-b2aa-11eb-8d25-8253e96d8adb.JPG)
+
+
+![video](https://user-images.githubusercontent.com/44445250/117910933-dc970000-b2aa-11eb-9fd1-2401056d115e.gif)
+
+
 
 Assignment requirements are listed below. 
 
